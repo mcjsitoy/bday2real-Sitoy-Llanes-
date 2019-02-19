@@ -1,0 +1,204 @@
+.demo-card-header-pic .card-header {
+    height: 40vw;
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+  }
+.demo-card-header-pic .card-content-padding .date{
+    color: #8e8e93;
+  }
+
+  :root {
+  --f7-elevation-0: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  --f7-elevation-1: 0px 2px 1px -1px rgba(0, 0, 0, 0.2),
+    0px 1px 1px 0px rgba(0, 0, 0, 0.14),
+    0px 1px 3px 0px rgba(0, 0, 0, 0.12);
+  --f7-elevation-2: 0px 3px 1px -2px rgba(0, 0, 0, 0.2),
+    0px 2px 2px 0px rgba(0, 0, 0, 0.14),
+    0px 1px 5px 0px rgba(0, 0, 0, 0.12);
+  --f7-elevation-3: 0px 3px 3px -2px rgba(0, 0, 0, 0.2),
+    0px 3px 4px 0px rgba(0, 0, 0, 0.14),
+    0px 1px 8px 0px rgba(0, 0, 0, 0.12);
+  --f7-elevation-4: 0px 2px 4px -1px rgba(0, 0, 0, 0.2),
+    0px 4px 5px 0px rgba(0, 0, 0, 0.14),
+    0px 1px 10px 0px rgba(0, 0, 0, 0.12);
+  --f7-elevation-5: 0px 3px 5px -1px rgba(0, 0, 0, 0.2),
+    0px 5px 8px 0px rgba(0, 0, 0, 0.14),
+    0px 1px 14px 0px rgba(0, 0, 0, 0.12);
+  --f7-elevation-6: 0px 3px 5px -1px rgba(0, 0, 0, 0.2),
+    0px 6px 10px 0px rgba(0, 0, 0, 0.14),
+    0px 1px 18px 0px rgba(0, 0, 0, 0.12);
+  --f7-elevation-7: 0px 4px 5px -2px rgba(0, 0, 0, 0.2),
+    0px 7px 10px 1px rgba(0, 0, 0, 0.14),
+    0px 2px 16px 1px rgba(0, 0, 0, 0.12);
+  --f7-elevation-8: 0px 5px 5px -3px rgba(0, 0, 0, 0.2),
+    0px 8px 10px 1px rgba(0, 0, 0, 0.14),
+    0px 3px 14px 2px rgba(0, 0, 0, 0.12);
+  --f7-elevation-9: 0px 5px 6px -3px rgba(0, 0, 0, 0.2),
+    0px 9px 12px 1px rgba(0, 0, 0, 0.14),
+    0px 3px 16px 2px rgba(0, 0, 0, 0.12);
+  --f7-elevation-10: 0px 6px 6px -3px rgba(0, 0, 0, 0.2),
+    0px 10px 14px 1px rgba(0, 0, 0, 0.14),
+    0px 4px 18px 3px rgba(0, 0, 0, 0.12);
+  --f7-elevation-11: 0px 6px 7px -4px rgba(0, 0, 0, 0.2),
+    0px 11px 15px 1px rgba(0, 0, 0, 0.14),
+    0px 4px 20px 3px rgba(0, 0, 0, 0.12);
+  --f7-elevation-12: 0px 7px 8px -4px rgba(0, 0, 0, 0.2),
+    0px 12px 17px 2px rgba(0, 0, 0, 0.14),
+    0px 5px 22px 4px rgba(0, 0, 0, 0.12);
+  --f7-elevation-13: 0px 7px 8px -4px rgba(0, 0, 0, 0.2),
+    0px 13px 19px 2px rgba(0, 0, 0, 0.14),
+    0px 5px 24px 4px rgba(0, 0, 0, 0.12);
+  --f7-elevation-14: 0px 7px 9px -4px rgba(0, 0, 0, 0.2),
+    0px 14px 21px 2px rgba(0, 0, 0, 0.14),
+    0px 5px 26px 4px rgba(0, 0, 0, 0.12);
+  --f7-elevation-15: 0px 8px 9px -5px rgba(0, 0, 0, 0.2),
+    0px 15px 22px 2px rgba(0, 0, 0, 0.14),
+    0px 6px 28px 5px rgba(0, 0, 0, 0.12);
+  --f7-elevation-16: 0px 8px 10px -5px rgba(0, 0, 0, 0.2),
+    0px 16px 24px 2px rgba(0, 0, 0, 0.14),
+    0px 6px 30px 5px rgba(0, 0, 0, 0.12);
+  --f7-elevation-17: 0px 8px 11px -5px rgba(0, 0, 0, 0.2),
+    0px 17px 26px 2px rgba(0, 0, 0, 0.14),
+    0px 6px 32px 5px rgba(0, 0, 0, 0.12);
+  --f7-elevation-18: 0px 9px 11px -5px rgba(0, 0, 0, 0.2),
+    0px 18px 28px 2px rgba(0, 0, 0, 0.14),
+    0px 7px 34px 6px rgba(0, 0, 0, 0.12);
+  --f7-elevation-19: 0px 9px 12px -6px rgba(0, 0, 0, 0.2),
+    0px 19px 29px 2px rgba(0, 0, 0, 0.14),
+    0px 7px 36px 6px rgba(0, 0, 0, 0.12);
+  --f7-elevation-20: 0px 10px 13px -6px rgba(0, 0, 0, 0.2),
+    0px 20px 31px 3px rgba(0, 0, 0, 0.14),
+    0px 8px 38px 7px rgba(0, 0, 0, 0.12);
+  --f7-elevation-21: 0px 10px 13px -6px rgba(0, 0, 0, 0.2),
+    0px 21px 33px 3px rgba(0, 0, 0, 0.14),
+    0px 8px 40px 7px rgba(0, 0, 0, 0.12);
+  --f7-elevation-22: 0px 10px 14px -6px rgba(0, 0, 0, 0.2),
+    0px 22px 35px 3px rgba(0, 0, 0, 0.14),
+    0px 8px 42px 7px rgba(0, 0, 0, 0.12);
+  --f7-elevation-23: 0px 11px 14px -7px rgba(0, 0, 0, 0.2),
+    0px 23px 36px 3px rgba(0, 0, 0, 0.14),
+    0px 9px 44px 8px rgba(0, 0, 0, 0.12);
+  --f7-elevation-24: 0px 11px 15px -7px rgba(0, 0, 0, 0.2),
+    0px 24px 38px 3px rgba(0, 0, 0, 0.14),
+    0px 9px 46px 8px rgba(0, 0, 0, 0.12);
+  }
+
+  .demo-swiper .swiper-slide {
+  font-size: 25px;
+  font-weight: 300;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #fff;
+  color: #000;
+}
+.demo-swiper .swiper-slide {
+  box-sizing: border-box;
+  border: 1px solid #ddd;
+  background:#355368;
+}
+.demo-swiper {
+  margin: 0px 0 35px;
+  font-size: 18px;
+  height: 100%;
+}
+.demo-swiper.demo-swiper-auto .swiper-slide {
+  width: 100%;
+}
+.demo-swiper.demo-swiper-auto .swiper-slide:nth-child(2n) {
+  width: 50%;
+}
+.demo-swiper.demo-swiper-auto .swiper-slide:nth-child(3n) {
+  width: 50%;
+}
+:root {
+  --f7-timeline-horizontal-date-height: 34px;
+  --f7-timeline-year-height: 24px;
+  --f7-timeline-month-height: 24px;
+  --f7-timeline-item-inner-bg-color: #fff;
+}
+:root {
+  --f7-timeline-horizontal-date-height: 34px;
+  --f7-timeline-year-height: 24px;
+  --f7-timeline-month-height: 24px;
+  --f7-timeline-item-inner-bg-color: #fff;
+}
+:root .theme-dark,
+:root.theme-dark {
+  --f7-timeline-item-inner-bg-color: #1c1c1d;
+}
+.ios {
+  --f7-timeline-padding-horizontal: 15px;
+  --f7-timeline-margin-vertical: 35px;
+  --f7-timeline-divider-margin-horizontal: 15px;
+  --f7-timeline-inner-block-margin-vertical: 15px;
+  --f7-timeline-item-inner-border-radius: 7px;
+  --f7-timeline-item-inner-box-shadow: none;
+  --f7-timeline-item-time-font-size: 13px;
+  --f7-timeline-item-time-text-color: #6d6d72;
+  --f7-timeline-item-title-font-size: 17px;
+  --f7-timeline-item-title-font-weight: 600;
+  --f7-timeline-item-subtitle-font-size: 15px;
+  --f7-timeline-item-subtitle-font-weight: inherit;
+  --f7-timeline-horizontal-item-padding: 10px;
+  --f7-timeline-horizontal-item-border-color: #c4c4c4;
+  --f7-timeline-horizontal-item-date-border-color: #c4c4c4;
+  --f7-timeline-horizontal-item-date-shadow-image: none;
+}
+.ios .theme-dark,
+.ios.theme-dark {
+  --f7-timeline-item-time-text-color: #8E8E93;
+}
+.md {
+  --f7-timeline-padding-horizontal: 16px;
+  --f7-timeline-margin-vertical: 32px;
+  --f7-timeline-divider-margin-horizontal: 16px;
+  --f7-timeline-inner-block-margin-vertical: 16px;
+  --f7-timeline-item-inner-border-radius: 4px;
+  --f7-timeline-item-inner-box-shadow: var(--f7-elevation-1);
+  --f7-timeline-item-time-font-size: 13px;
+  --f7-timeline-item-time-text-color: rgba(0, 0, 0, 0.54);
+  --f7-timeline-item-title-font-size: 16px;
+  --f7-timeline-item-title-font-weight: 400;
+  --f7-timeline-item-subtitle-font-size: inherit;
+  --f7-timeline-item-subtitle-font-weight: inherit;
+  --f7-timeline-horizontal-item-padding: 12px;
+  --f7-timeline-horizontal-item-border-color: rgba(0, 0, 0, 0.12);
+  --f7-timeline-horizontal-item-date-border-color: transparent;
+  --f7-timeline-horizontal-item-date-shadow-image: var(--f7-bars-shadow-bottom-image);
+}
+.md .theme-dark,
+.md.theme-dark {
+  --f7-timeline-item-time-text-color: rgba(255, 255, 255, 0.54);
+}
+
+.map-responsive{
+  top:30%;
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+}
+.map-responsive iframe{
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
+}
+
+.swipe-responsive{
+  top:1%;
+  overflow:hidden;
+  padding-bottom:150%;
+  position:relative;
+  height:0;
+}
+.navbar-inner{
+ background-color:#5DADE2;
+ color:#FFFFFF;
+}
+
+
+
